@@ -1,4 +1,4 @@
-## Load packages annd data ----
+## Load packages and data ----
 
 # Packages
 library(readr)  # reading 
