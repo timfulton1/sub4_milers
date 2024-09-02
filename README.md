@@ -1,4 +1,4 @@
-# Sub 4 Minute College Milers
+# Sub 4 College Milers
 
 This repo contains the code to make this visualization:
 
