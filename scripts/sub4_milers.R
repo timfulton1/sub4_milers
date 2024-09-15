@@ -141,7 +141,7 @@ sub4_milers_plot <- running_count_uni_min5 %>%
   ) +
   labs(
     title = "<span style = 'color:#154733;'>**Oregon**</span> is Miler U", 
-    subtitle = "Number of sub-4 milers by team",
+    subtitle = "Number of sub-4 milers by team (minimum 5)",
   ) +
   geom_line(
     color = "gray50", 
