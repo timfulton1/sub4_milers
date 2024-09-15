@@ -1,5 +1,5 @@
 # Sub 4 College Milers Visualization
 
-This repo contains the code to make the line plot shown below.
+This repo contains the code to make the graphic shown below.
 
-![sub4_milers_plot](https://github.com/user-attachments/assets/abc4529f-7d82-4d47-a2d3-fc529c47fe83)
+![sub_4_facet_plot](https://github.com/user-attachments/assets/cc5ebdc5-f3e4-4665-beaf-7d237a1b15de)
