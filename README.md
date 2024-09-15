@@ -1,4 +1,4 @@
-# Sub 4 College Milers Visualization
+# Sub-4 College Milers Visualization
 
 This repo contains the code used to make the graphic shown below.
 
