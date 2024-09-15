@@ -266,8 +266,8 @@ sub_4_facet_plot <- sub4_milers_plot / plot_spacer() / (custom_facet_plot("Orego
                                           custom_facet_plot("Syracuse") + 
                                           custom_facet_plot("UCLA") +
                                           custom_caption_plot("Oregon") +
-                                          plot_layout(ncol = 8, axes = "collect")) + 
-  plot_layout(heights = c(7, 0.3, 5))
+                                          plot_layout(ncol = 6, axes = "collect")) + 
+  plot_layout(heights = c(7, 0.3, 7))
 
 
 
@@ -276,6 +276,6 @@ ggsave("plots/sub_4_facet_plot.png",
        plot = sub_4_facet_plot,
        scale = 1,
        width = 11,
-       height = 12.3,
+       height = 14.3,
        dpi = 600,
        units = "in")
